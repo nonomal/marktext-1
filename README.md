@@ -16,10 +16,6 @@
 <br>
 
 <div align="center">
-  <!-- Version -->
-  <a href="https://marktext.github.io/website">
-    <img src="https://badge.fury.io/gh/jocs%2Fmarktext.svg" alt="website">
-  </a>
   <!-- License -->
   <a href="LICENSE">
     <img src="https://img.shields.io/github/license/marktext/marktext.svg" alt="LICENSE">
@@ -47,7 +43,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://marktext.app">
+    <a href="https://github.com/marktext/marktext">
       Website
     </a>
     <span> | </span>
@@ -255,7 +251,7 @@ If you have any questions regarding MarkText, you are welcome to write an issue.
 
 ## Contribution
 
-MarkText is in development, please make sure to read the [Contributing Guide](CONTRIBUTING.md) before making a pull request. Want to add some features to MarkText? Refer to our [roadmap](https://github.com/marktext/marktext/projects) and open issues.
+MarkText is in development, please make sure to read the [Contributing Guide](CONTRIBUTING.md) before making a pull request. Want to add some features to MarkText? Refer to our [roadmap](https://github.com/marktext/marktext/projects?type=classic) and open issues.
 
 
 ## Contributors
